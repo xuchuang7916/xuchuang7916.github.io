@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Welcome to my homepage"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Welcome to my homepage, I am Chuang, a PhD student at The Hong Kong Polytechnic University. I study in the nonlinearity mitigation in coherent fiber optic communication.
 
 Education
