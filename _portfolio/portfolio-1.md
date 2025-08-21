@@ -7,4 +7,4 @@ excerpt: |
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+A comparison between the Kalman filter-based CPR and BPS at low SNR, the latter shows cycle slip while the former doesn't.
