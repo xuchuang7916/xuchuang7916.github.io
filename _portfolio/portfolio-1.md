@@ -1,6 +1,6 @@
 ---
 title: "CPR Kalman vs BPS"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Kalman CPR_3W.gif'><img src='/images/BPS CPR_3W.gif'>"
+excerpt: "Short description of portfolio item number 1<br/><img src="/images/Kalman CPR_3W.gif" width="300" height="200"><img src='/images/BPS CPR_3W.gif' width="300" height="200">"
 collection: portfolio
 ---
 
