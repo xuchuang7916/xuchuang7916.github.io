@@ -1,12 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 Welcome to my homepage, I am Chuang, a PhD student at The Hong Kong Polytechnic University. I study in the nonlinearity mitigation in coherent fiber optic communication.
 
 Education
@@ -21,7 +12,7 @@ Working Experience
 ------
 2017-2021, Fiberhome Telecommunications Technology, Optical Transmission Engineer\
 \
-#2023.7-12, Theory Lab, Lab 2012, Huawei Hong Kong Research Center
+<!-- 2023.7-12, Theory Lab, Lab 2012, Huawei Hong Kong Research Center -->
 
 Create content & metadata
 ------
