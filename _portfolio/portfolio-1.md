@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "CPR Kalman vs BPS"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/Kalman CPR_3W.gif'><img src='/images/BPS CPR_3W.gif'>"
 collection: portfolio
 ---
 
