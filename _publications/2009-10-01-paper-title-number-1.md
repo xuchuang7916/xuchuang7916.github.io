@@ -7,7 +7,7 @@ excerpt: 'https://doi.org/10.1109/jlt.2025.3545375'
 date: 2025-Jun
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/HalfBackRotation.pdf'
+paperurl: '[Paper PDF](https://github.com/xuchuang7916/xuchuang7916.github.io/files/earlyaccessJLT3545375.pdf)'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
