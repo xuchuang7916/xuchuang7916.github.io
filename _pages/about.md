@@ -56,8 +56,7 @@ My research interests include fiber nonlinearity compensation and Solitons.
 [**C. Xu**, et al. “6.48 Tb/s Transmissions Using 50 GHz Integrated Lithium Niobate Flat-Top Electro-Optic Combs,” In 2024 Optical Fiber Communications Conference (OFC), Top-Scored.]
 (https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-[**C. Xu**, and A. P. T. Lau. “A Method of Generating Second-Order Soliton with Specified Time Positions,” In 2023 Asia Communications and Photonics Conference (ACP).]
-(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[**C. Xu**, and A. P. T. Lau. “A Method of Generating Second-Order Soliton with Specified Time Positions,” In 2023 Asia Communications and Photonics Conference (ACP).](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
