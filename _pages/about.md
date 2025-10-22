@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my homepage. I am Chuang, a PhD student at The Hong Kong Polytechnic University. My research direction is nonlinearity mitigation in coherent fiber optic communication.
+Welcome to my homepage. I am Chuang, a PhD student at The Hong Kong Polytechnic University. My research direction is nonlinearity mitigation in coherent fiber optic communication. My research interests include fiber nonlinearity compensation and Solitons.
 
-My research interests include fiber nonlinearity compensation and Solitons.
+
 
 
 # 🔥 News
