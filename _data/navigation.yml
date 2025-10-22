@@ -25,4 +25,4 @@ main:
     url: "/#-guitar"
 
   - title: "Blogs"
-    url: "/#-blogs"
+    url: "/blogs/"
