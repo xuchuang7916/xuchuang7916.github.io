@@ -104,5 +104,5 @@ Welcome to my homepage. I am Chuang, a PhD student at The Hong Kong Polytechnic 
 - *2022.02*, November Rain \| [\[Video\]](https://www.bilibili.com/video/BV1iE411875y/)
 - I will try to upload some of my poor guitar video
  
-# 💭: Blogs
+# 💭: [Blogs](/blogs/)
 - *2023.07 - 2023.12*, want to write down something.
