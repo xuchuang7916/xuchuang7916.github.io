@@ -38,7 +38,7 @@ My research interests include fiber nonlinearity compensation and Solitons.
 
 ## Conference
 - ``ECOC 2025`` [Optimal Symbol Rate for Discrete Nonlinear Frequency Division Multiplexing Transmissions](files/download from the sysytem Optimal Symbol Rate for Discrete Nonlinear Frequency Division Multiplexing Transmissions.pdf), **C. Xu**, J. Wang, and A. P. T. Lau.
-- 
+  
 - ``OECC 2025`` [New Perspectives on Perturbation-based Pre-Distortion and Post-Compensation for Nonlinear Optical Transmission](files/OECC25_PD_PC20250309.pdf), **C. Xu** and A. P. T. Lau.
 
 - ``OECC 2025`` [A Full DSP Flow for Dual-Polarization Discrete NFDM Systems](files/OECC25_DSP_NFDM0309.pdf) **C. Xu**, G. Zhou, and A. P. T. Lau.
