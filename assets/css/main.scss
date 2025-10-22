@@ -97,6 +97,10 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
+h1, h2, h3, h4, h5, h6, .anchor {
+  scroll-margin-top: 80px; /* adjust to your navbar height */
+}
+
 .badge {
     padding-left: 1rem;
     padding-right: 1rem;
