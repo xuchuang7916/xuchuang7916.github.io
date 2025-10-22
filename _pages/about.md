@@ -82,8 +82,8 @@ Welcome to my homepage. I am Chuang, a PhD student at The Hong Kong Polytechnic 
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.03* Top-Scored Paper in OFC 2024. 
+- *2022.09* Teaching Assistant Excellence. 
 
 # 📖 Educations
 - *2025*, PhD, Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University. 
@@ -99,3 +99,10 @@ Welcome to my homepage. I am Chuang, a PhD student at The Hong Kong Polytechnic 
 # 💻 Internships
 - *2023.07 - 2023.12*, Theory Lab, Lab 2012, Huawei Hong Kong Research Center.
     - Study on the nonlinear fiber optic transmission from the perspective of Koopman theory.
+
+# 🎸 Guitar
+- *2022.02*, November Rain \| [\[Video\]](https://www.bilibili.com/video/BV1iE411875y/)
+- I will try to upload some of my poor guitar video
+ 
+# 💭: Blogs
+- *2023.07 - 2023.12*, want to write down something.
