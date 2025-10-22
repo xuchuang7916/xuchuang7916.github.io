@@ -87,6 +87,9 @@
 
 }
 
+
+
+/* Remove the old anchor offset workaround
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
@@ -96,6 +99,7 @@ h1:before, .anchor:before {
     height: $scroll_offset; 
     margin-top: -$scroll_offset;
 }
+*/
 
 h1, h2, h3, h4, h5, h6, .anchor {
   scroll-margin-top: 80px; /* adjust to your navbar height */
