@@ -21,10 +21,11 @@ Welcome to my homepage. I am Chuang, a PhD student at The Hong Kong Polytechnic 
 
 
 
-
+<!--
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 Submit the thesis. 
 - *2021.04*: &nbsp;🎉🎉 Start the journey. 
+-->
 
 # 📝 Publications 
 <!--
