@@ -37,17 +37,18 @@ My research interests include fiber nonlinearity compensation and Solitons.
 - ``PTL 2025`` [81 Gb/s Dual-Polarization Discrete Eigenvalue Transmission Based on Nonlinear Fourier Transform](), **C. Xu**, G. Zhou, C. Lu, and A. P. T. Lau.
 
 ## Conference
-- ``ECOC 2025`` [Optimal Symbol Rate for Discrete Nonlinear Frequency Division Multiplexing Transmissions](files/download from the sysytem Optimal Symbol Rate for Discrete Nonlinear Frequency Division Multiplexing Transmissions.pdf), **C. Xu**, J. Wang, and A. P. T. Lau.
+- ``ECOC 2025`` [Optimal Symbol Rate for Discrete Nonlinear Frequency Division Multiplexing Transmissions](files%2Fdownload%20from%20the%20sysytem%20Optimal%20Symbol%20Rate%20for%20Discrete%20Nonlinear%20Frequency%20Division%20Multiplexing%20Transmissions.pdf), **C. Xu**, J. Wang, and A. P. T. Lau.
   
 - ``OECC 2025`` [New Perspectives on Perturbation-based Pre-Distortion and Post-Compensation for Nonlinear Optical Transmission](files/OECC25_PD_PC20250309.pdf), **C. Xu** and A. P. T. Lau.
 
 - ``OECC 2025`` [A Full DSP Flow for Dual-Polarization Discrete NFDM Systems](files/OECC25_DSP_NFDM0309.pdf) **C. Xu**, G. Zhou, and A. P. T. Lau.
 
-- ``OFC 2024`` [Optimal Nonlinear Spectral Back-Rotation for Discrete Eigenvalue NFT Transmission Systems](files/Optimal Nonlinear Spectral Back-Rotation for Discrete Eigenvalue NFDM Transmission Systems.pdf), **C. Xu** and A. P. T. Lau.
+- ``OFC 2024`` [Optimal Nonlinear Spectral Back-Rotation for Discrete Eigenvalue NFT Transmission Systems](files%2FOptimal%20Nonlinear%20Spectral%20Back-Rotation%20for%20Discrete%20Eigenvalue%20NFDM%20Transmission%20Systems.pdf), **C. Xu** and A. P. T. Lau.
    
-- ``OFC 2024`` [6.48 Tb/s Transmissions Using 50 GHz Integrated Lithium Niobate Flat-Top Electro-Optic Combs, **(Top-Scored)**](files/6.48 Tbps Transmissions Using 50 GHz Integrated Lithium Niobate Flat-Top Electro-Optic Combs.pdf), **C. Xu**, Y. Chen, et al.
+- ``OFC 2024`` [6.48 Tb/s Transmissions Using 50 GHz Integrated Lithium Niobate Flat-Top Electro-Optic Combs, **(Top-Scored)**](files%2F6.48%20Tbps%20Transmissions%20Using%2050%20GHz%20Integrated%20Lithium%20Niobate%20Flat-Top%20Electro-Optic%20Combs.pdf), **C. Xu**, Y. Chen, et al.
      
-- ``ACP 2023`` [A Method of Generating Second-Order Soliton with Specified Time Positions](files/A Method of Generating Second-Order Soliton with Specified Time Positions.pdf), **C. Xu** and A. P. T. Lau.
+- ``ACP 2023`` [A Method of Generating Second-Order Soliton with Specified Time Positions](files%2FA%20Method%20of%20Generating%20Second-Order%20Soliton%20with%20Specified%20Time%20Positions.pdf), **C. Xu** and A. P. T. Lau.
+
 
 <!--  
 - [**C. Xu**, G. Zhou, and A. P. T. Lau. “A Full Digital Signal Processing Flow for Dual-Polarization Discrete Nonlinear Frequency Division Multiplexing Systems,” Journal of Lightwave Technology, under review.]()
